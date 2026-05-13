@@ -1,0 +1,20 @@
+{
+  "name": "Balance",
+  "short_name": "Balance",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5efe6",
+  "theme_color": "#f5efe6",
+  "icons": [
+    {
+      "src": "192bl.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "512bl.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
